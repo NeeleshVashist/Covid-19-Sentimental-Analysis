@@ -28,7 +28,7 @@ We filtered the data to include tweets in English for ease of study. This sectio
 To run this project, follow these steps:
 
 1. Download and install Anaconda, which includes Jupyter Notebook.
-2. Fork and clone this repository from GitHub: [Covid-19 Sentiment Analysis](https://github.com/NeeleshVashist/Covid-19-Sentiment-Analysis).
+2. Fork and clone this repository.
 3. Download the dataset from the following Google Drive link: [Covid-19 Sentiment Analysis Dataset](https://drive.google.com/drive/u/0/folders/1GdBYi2UqdFYRYy9E7JFgm8Z3tQjXVkED).
 4. Move the downloaded dataset to the project directory/folder.
 
